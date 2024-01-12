@@ -1,0 +1,40 @@
+*{
+    text-decoration: none;
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: 'Salsa', cursive;
+}
+ul{
+text-transform: uppercase;
+background-color: purple;
+font-size: larger;
+padding: 15px;
+text-align: center;
+}
+li{
+    display: inline;
+    margin: 25px;
+}
+li a{
+    color: whitesmoke;
+}
+.ce{
+    text-align: center;
+}
+#para{
+    text-align: center;
+    font-size: larger;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    color: violet;
+}
+h1::first-letter{
+    font-size: 100px;
+}
+a:hover{
+    text-decoration: underline;
+}
